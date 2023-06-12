@@ -26,7 +26,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_tauk/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/#8507)
 
-
-![André Martins Tauk GitHub stats](https://github-readme-stats.vercel.app/api?username=andtauk&show_icons=true&theme=highcontrast)
-
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andtauk&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<!-- <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andtauk&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+ -->
